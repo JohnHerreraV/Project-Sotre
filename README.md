@@ -1,3 +1,4 @@
+***Utilizando GoogleColab, desarrollé este proyecto, el cual tiene como fin dar al usuario una sugerencia de cúal debe ser la tienda que debe ser vendida.***
 
 ---
 
